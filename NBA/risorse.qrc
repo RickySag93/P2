@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/loghi">
+        <file>Logo/san_antonio_spurs.png</file>
+        <file>Logo/cross.png</file>
+    </qresource>
+</RCC>

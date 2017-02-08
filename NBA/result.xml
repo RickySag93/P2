@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dati>
+    <game>
+        <home>Wizards</home>
+        <away>Cavaliers</away>
+        <link>https://www.youtube.com/watch?v=02D-GS7ZYmI</link>
+        <hpts>135</hpts>
+        <apts>140</apts>
+        <hreb>43</hreb>
+        <areb>46</areb>
+        <hass>29</hass>
+        <aass>31</aass>
+        <hfg>45.7</hfg>
+        <afg>46.7</afg>
+        <h3p>50.0</h3p>
+        <a3p>33.3</a3p>
+        <y>2017</y>
+        <m>2</m>
+        <d>7</d>
+        <h>1</h>
+        <htab>Bradley Beal: 41pts</htab>
+        <htab>Otto Porter Jr: 25pts</htab>
+        <htab>John Wall: 22pts</htab>
+        <atab>Kevin Love: 39pts</atab>
+        <atab>LeBron James: 32pts</atab>
+        <atab>Kyrie Irving: 23pts</atab>
+        <min>30</min>
+    </game>
+</dati>

@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dati>
+<squadra>
+    <nome>Hawks</nome>
+    <city>Atlanta</city>
+    <conference>East</conference>
+    <arena>Philips Arena</arena>
+    <coach>Mike Budenholzer</coach>
+    <anno>1946</anno>
+    <logo>../NBA/Logo/hawks.png</logo>
+    <win>26</win>
+    <lose>19</lose>
+</squadra>
+<squadra>
+	<nome>Lakers</nome>
+	<city>Los Angeles</city>
+        <conference>West</conference>
+	<arena>Staples Center</arena>
+	<coach>Luke Walton</coach>
+	<anno>1947</anno>
+        <logo>../NBA/Logo/lakers.png</logo>
+	<win>16</win>
+	<lose>32</lose>
+</squadra>
+<squadra>
+    <nome>Spurs</nome>
+    <city>San Antonio</city>
+    <conference>West</conference>
+    <arena>AT-T Center</arena>
+    <coach>Gregg Popovich</coach>
+    <anno>1967</anno>
+    <logo>../NBA/Logo/san_antonio_spurs.png</logo>
+    <win>36</win>
+    <lose>9</lose>
+</squadra>
+<squadra>
+    <nome>Raptors</nome>
+    <city>Toronto</city>
+    <conference>East</conference>
+    <arena>Air Canada Center</arena>
+    <coach>Dwane Casey</coach>
+    <anno>1995</anno>
+    <logo>../NBA/Logo/raptors.png</logo>
+    <win>28</win>
+    <lose>17</lose>
+</squadra>
+<squadra>
+    <nome>Cavaliers</nome>
+    <city>Cleveland</city>
+    <conference>East</conference>
+    <arena>Quicken Loans Arena</arena>
+    <coach>Tyronn Lue</coach>
+    <anno>1970</anno>
+    <logo>../NBA/Logo/cavs.png</logo>
+    <win>30</win>
+    <lose>13</lose>
+</squadra>
+<squadra>
+    <nome>Celtics</nome>
+    <city>Boston</city>
+    <conference>East</conference>
+    <arena>TD Garden</arena>
+    <coach>Brad Stevens</coach>
+    <anno>1946</anno>
+    <logo>../NBA/Logo/celtics.png</logo>
+    <win>26</win>
+    <lose>18</lose>
+</squadra>
+<squadra>
+    <nome>Wizards</nome>
+    <city>Washington</city>
+    <conference>East</conference>
+    <arena>Verizon Center</arena>
+    <coach>Scott Brooks</coach>
+    <anno>1961</anno>
+    <logo>../NBA/Logo/wizards.png</logo>
+    <win>25</win>
+    <lose>20</lose>
+</squadra>
+<squadra>
+    <nome>Hornets</nome>
+    <city>Charlotte</city>
+    <conference>East</conference>
+    <arena>Time Warner Cable Arena</arena>
+    <coach>Steve Clifford</coach>
+    <anno>1988</anno>
+    <logo>../NBA/Logo/hornets.png</logo>
+    <win>23</win>
+    <lose>22</lose>
+</squadra>
+<squadra>
+    <nome>Pacers</nome>
+    <city>Indiana</city>
+    <conference>East</conference>
+    <arena>Bankers Life Fieldhouse</arena>
+    <coach>Nate McMillan</coach>
+    <anno>1967</anno>
+    <logo>../NBA/Logo/pacers.gif</logo>
+    <win>22</win>
+    <lose>22</lose>
+</squadra>
+<squadra>
+    <nome>Bulls</nome>
+    <city>Chicago</city>
+    <conference>East</conference>
+    <arena>United Center</arena>
+    <coach>Fred Hoiberg</coach>
+    <anno>1966</anno>
+    <logo>../NBA/Logo/bulls.png</logo>
+    <win>23</win>
+    <lose>23</lose>
+</squadra>
+<squadra>
+    <nome>Bucks</nome>
+    <city>Milwaukee</city>
+    <conference>East</conference>
+    <arena>BMO Harris Bradley Center</arena>
+    <coach>Jason Kidd</coach>
+    <anno>1968</anno>
+    <logo>../NBA/Logo/bucks.png</logo>
+    <win>21</win>
+    <lose>23</lose>
+</squadra>
+<squadra>
+    <nome>Pistons</nome>
+    <city>Detroit</city>
+    <conference>East</conference>
+    <arena>The Palace of Auburn Hills</arena>
+    <coach>Stan Van Gundy</coach>
+    <anno>1941</anno>
+    <logo>../NBA/Logo/pistons.png</logo>
+    <win>21</win>
+    <lose>25</lose>
+</squadra>
+<squadra>
+    <nome>Knicks</nome>
+    <city>New York</city>
+    <conference>East</conference>
+    <arena>Madison Square Garden</arena>
+    <coach>Jeff Hornacek</coach>
+    <anno>1946</anno>
+    <logo>../NBA/Logo/knicks.png</logo>
+    <win>20</win>
+    <lose>26</lose>
+</squadra>
+<squadra>
+    <nome>Magic</nome>
+    <city>Orlando</city>
+    <conference>East</conference>
+    <arena>Amway Center</arena>
+    <coach>Frank Vogel</coach>
+    <anno>1989</anno>
+    <logo>../NBA/Logo/magic.png</logo>
+    <win>18</win>
+    <lose>29</lose>
+</squadra>
+<squadra>
+    <nome>76ers</nome>
+    <city>Philadelphia</city>
+    <conference>East</conference>
+    <arena>Wells Fargo Center</arena>
+    <coach>Bret Brown</coach>
+    <anno>1939</anno>
+    <logo>../NBA/Logo/76ers.jpeg</logo>
+    <win>16</win>
+    <lose>27</lose>
+</squadra>
+<squadra>
+    <nome>Heat</nome>
+    <city>Miami</city>
+    <conference>East</conference>
+    <arena>AmericanAirlines Arena</arena>
+    <coach>Fred Hoiberg</coach>
+    <anno>1988</anno>
+    <logo>../NBA/Logo/heat.png</logo>
+    <win>15</win>
+    <lose>30</lose>
+</squadra>
+<squadra>
+    <nome>Nets</nome>
+    <city>Brooklin</city>
+    <conference>East</conference>
+    <arena>Barclays Center</arena>
+    <coach>Kenny Atkinson</coach>
+    <anno>1967</anno>
+    <logo>../NBA/Logo/nets.png</logo>
+    <win>9</win>
+    <lose>35</lose>
+</squadra>
+<squadra>
+    <nome>Warriors</nome>
+    <city>Golden State</city>
+    <conference>West</conference>
+    <arena>Oracle Arena</arena>
+    <coach>Steve Kerr</coach>
+    <anno>1946</anno>
+    <logo>../NBA/Logo/warriors.png</logo>
+    <win>38</win>
+    <lose>7</lose>
+</squadra>
+<squadra>
+    <nome>Rockets</nome>
+    <city>Houston</city>
+    <conference>West</conference>
+    <arena>Toyota Center</arena>
+    <coach>Mike D'Antoni</coach>
+    <anno>1967</anno>
+    <logo>../NBA/Logo/rockets.png</logo>
+    <win>34</win>
+    <lose>14</lose>
+</squadra>
+<squadra>
+    <nome>Clippers</nome>
+    <city>Los Angeles</city>
+    <conference>West</conference>
+    <arena>Staples Center</arena>
+    <coach>Doc Rivers</coach>
+    <anno>1970</anno>
+    <logo>../NBA/Logo/clippers.png</logo>
+    <win>30</win>
+    <lose>17</lose>
+</squadra>
+<squadra>
+    <nome>Jazz</nome>
+    <city>Utah</city>
+    <conference>West</conference>
+    <arena>Vivint Smart Home Arena</arena>
+    <coach>Quin Snyder</coach>
+    <anno>1974</anno>
+    <logo>../NBA/Logo/jazz.png</logo>
+    <win>29</win>
+    <lose>18</lose>
+</squadra>
+<squadra>
+    <nome>Thunder</nome>
+    <city>Oklahoma City</city>
+    <conference>West</conference>
+    <arena>Chesapeake Arena</arena>
+    <coach>Billy Donovan</coach>
+    <anno>1967</anno>
+    <logo>../NBA/Logo/okc.png</logo>
+    <win>29</win>
+    <lose>19</lose>
+</squadra>
+<squadra>
+    <nome>Grizzlies</nome>
+    <city>Memphis</city>
+    <conference>West</conference>
+    <arena>FedExForum</arena>
+    <coach>David Fizdale</coach>
+    <anno>1995</anno>
+    <logo>../NBA/Logo/memphis.png</logo>
+    <win>26</win>
+    <lose>20</lose>
+</squadra>
+<squadra>
+    <nome>Nuggets</nome>
+    <city>Denver</city>
+    <conference>West</conference>
+    <arena>Pepsi Center</arena>
+    <coach>Micheal Malone</coach>
+    <anno>1967</anno>
+    <logo>../NBA/Logo/nuggets.png</logo>
+    <win>19</win>
+    <lose>25</lose>
+</squadra>
+<squadra>
+    <nome>Trail Blazers</nome>
+    <city>Portland</city>
+    <conference>West</conference>
+    <arena>Moda Center</arena>
+    <coach>Terry Stotts</coach>
+    <anno>1970</anno>
+    <logo>../NBA/Logo/blazers.png</logo>
+    <win>19</win>
+    <lose>27</lose>
+</squadra>
+<squadra>
+    <nome>Pelicans</nome>
+    <city>New Orleans</city>
+    <conference>West</conference>
+    <arena>Smoothie King Center</arena>
+    <coach>Alvin Gentry</coach>
+    <anno>2002</anno>
+    <logo>../NBA/Logo/pelicans.png</logo>
+    <win>18</win>
+    <lose>27</lose>
+</squadra>
+<squadra>
+    <nome>Kings</nome>
+    <city>Sacramento</city>
+    <conference>West</conference>
+    <arena>Golden 1 Center</arena>
+    <coach>David Joerger</coach>
+    <anno>1945</anno>
+    <logo>../NBA/Logo/kings.png</logo>
+    <win>17</win>
+    <lose>27</lose>
+</squadra>
+<squadra>
+    <nome>Timberwolves</nome>
+    <city>Minnesota</city>
+    <conference>West</conference>
+    <arena>Target Center</arena>
+    <coach>Tim Thibodeau</coach>
+    <anno>1989</anno>
+    <logo>../NBA/Logo/wolves.png</logo>
+    <win>17</win>
+    <lose>28</lose>
+</squadra>
+<squadra>
+    <nome>Mavericks</nome>
+    <city>Dallas</city>
+    <conference>West</conference>
+    <arena>American Airlines Center</arena>
+    <coach>Doc Rivers</coach>
+    <anno>1980</anno>
+    <logo>../NBA/Logo/mavs.png</logo>
+    <win>15</win>
+    <lose>29</lose>
+</squadra>
+<squadra>
+    <nome>Suns</nome>
+    <city>Phoenix</city>
+    <conference>West</conference>
+    <arena>Talking Stick Resort Arena</arena>
+    <coach>Earl Watson</coach>
+    <anno>1968</anno>
+    <logo>../NBA/Logo/suns.png</logo>
+    <win>15</win>
+    <lose>30</lose>
+</squadra>
+</dati>
